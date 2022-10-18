@@ -25,6 +25,6 @@
 #### va_arg (man 3 va_arg)
 # Compilation
 #### $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
-#Authors
+# Authors
 #### Ugomusk
 #### Samanta
